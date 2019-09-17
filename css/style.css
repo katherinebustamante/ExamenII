@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+@font-face {
+   
+   font-family: 'Poppins', sans-serif;
+   
+}
+
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    color: #777;
+}
+
+#slides{
+    background-size: cover;
+    background-position: center;
+
+    color: #fff;
+    position: relative;
+  
+	text-align: center;
+}
+
+
+.tag{
+	text-transform: uppercase;
+	color: #FF9F35;
+	font-size: 20px;
+}
+
+#slides h1{
+    text-transform: uppercase;
+}
+
+
+.titulo{
+	text-transform: uppercase;
+	color: #777;
+	font-size: 25px;
+	padding-top: 25px;
+}
+
+.subtitulo{
+	
+	color: #777;
+	font-size: 20px;
+	padding-top: 10px;
+}
+
+#about{
+	text-align: center;
+}
+
+
+.fas{
+	text-align: center;
+	color: #FFA13;
+	font-size: 40px;
+}
+
+
+#products{
+	text-align: center;
+	font-size: 16px;
+	padding-bottom: 40px;
+}
+
+.round-photos{
+	border-radius: 100%;
+}
+
+
+
+#products h7{
+	text-align: left;
+	font-weight: 300;
+}
+
+#products p{
+	text-align: left;
+	
+}
+
+
+#products h6{
+	text-align: left;
+	font-weight: 400;
+	font-size: 18px;
+	color: #ECA621;
+	
+}
+
+
+#counter{
+	background-color: rgba(255,173,25,0.62);
+	padding: 40px;
+	text-align: center;
+	color: #FFFFFF;
+		
+}
+
+
+
+
+#chef{
+	text-align: center;
+	padding: 40px;
+}
+
+.chef-info{
+    background-color: #fff;
+    padding: 35px 25px;
+    text-align: center;
+    margin-top: 40px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    border-bottom-left-radius: 0;
+}
+.chef-info p{
+    margin-top: 50px;
+    margin-bottom: 25px;
+    font-size: 16px;
+}
+
+}
+.chef-info h6{
+    color: #757575;
+    font-size: 14px;
+    font-style: italic;
+}
+
+#chef img{
+	border-radius: 100%;
+}
+
+
+footer{
+	background-color: #000000;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+footer{
+	background-color: #000000;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.icons{
+	text-align: center;
+	font-size: 14px;
+}
+
